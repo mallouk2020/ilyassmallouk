@@ -7,13 +7,13 @@ export default function About() {
           <div className="md:w-1/2 mb-6 md:mb-0">
             <img
               src="/assets/Mypicture.png"
-              alt="Mohamed Haki"
+              alt="ilyass mallouk"
               className="rounded-lg shadow-lg w-full h-auto"
             />
           </div>
           <div className="md:w-1/2 md:pl-8">
             <p className="text-gray-700 leading-relaxed">
-              Hello! I'm Mohamed Haki, a skilled fullstack developer specializing in React, Node.js,
+              Hello! I'm ilyass mallouk, a skilled fullstack developer specializing in React, Node.js,
               Laravel, and more. With years of experience in building scalable web applications, I
               help businesses grow through innovative solutions.
             </p>
