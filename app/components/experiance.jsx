@@ -9,9 +9,11 @@ export default function Experience() {
   const [activeTab, setActiveTab] = useState(1);
 
   return (
-    <section id="experience" className="py-20">
+    <section id="experience" className="py-20 place-items-center">
+       <div className="" style={{ width: "270px " }}>
+        <h2 className=" font-bold text-center  mb-20  text-gradient text-4xl">my experience</h2>
+        </div>
       <div className="container mx-auto px-6">
-        <h2 className=" font-bold text-center mb-8 text-gradient ">My Experience</h2>
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           {/* Left Side: Tabs */}
           <div className="md:col-span-1 space-y-4">

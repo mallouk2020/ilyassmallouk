@@ -5,7 +5,8 @@ export default function Contact() {
   return (
     <section id="contact" className="place-items-center py-20">
       <div className="" style={{ width: "270px " }}>
-        <h2 className=" font-bold text-center  mb-8  text-gradient text-4xl">Contact Me</h2></div>
+        <h2 className=" font-bold text-center  mb-20  text-gradient text-4xl">Contact Me</h2>
+        </div>
       <div className=" container mx-auto px-6 ">
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">

@@ -7,7 +7,7 @@ export default function Header() {
       <nav className="container mx-auto px-6 py-4 flex justify-between items-center">
         {/* Logo */}
         <div>
-          <h1 className="  text-gradient ">ilyass mallouk</h1>
+          <h1 className="  text-gradient  text-2xl">ilyass mallouk</h1>
         </div>
 
         {/* Navigation Links */}

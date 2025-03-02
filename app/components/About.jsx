@@ -1,8 +1,10 @@
 // app/components/About.jsx
 export default function About() {
     return (
-      <section className="container mx-auto px-6">
-        <h2 className="text-xl font-bold text-blue-700   mb-8 text-gradient text-center">About Me</h2>
+      <section className="container mx-auto px-6 place-items-center">
+         <div className="" style={{ width: "270px " }}>
+        <h2 className=" font-bold text-center  mb-20  text-gradient text-4xl">About Me</h2>
+        </div>
         <div className="flex flex-col md:flex-row items-center">
           <div className="md:w-1/2 mb-6 md:mb-0">
             <img
