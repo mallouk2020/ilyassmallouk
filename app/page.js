@@ -5,6 +5,7 @@ import Projects from './components/Projects';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
 import Header from './components/Header';
+import Experience from './components/experiance';
 import MatrixBackground from './components/MatrixBackground';
 
 
@@ -21,9 +22,14 @@ export default function Home() {
       <section id="about" className="py-20">
         <About />
       </section>
+      
+        {/* Experience Section */}
+        <section id="experience" className="py-20">
+        <Experience />
+      </section>
 
       {/* Projects Section */}
-      <section id="projects" className=" bg-gray-100 bg-gradient-to-r from-slate-900 bg-opacity-75 to-slate-600 text-white py-20">
+      <section id="projects" className=" py-20">
         <Projects />
       </section>
 

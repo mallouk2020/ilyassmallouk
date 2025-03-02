@@ -21,7 +21,7 @@ const MatrixBackground = () => {
       ctx.fillStyle = 'rgba(0, 0, 0, 0.05)';
       ctx.fillRect(0, 0, canvas.width, canvas.height);
 
-      ctx.fillStyle = 'rgba(0, 255, 0, 0.3)'; // لون أخضر مع شفافية
+      ctx.fillStyle = 'rgba(0, 100, 255, 0.3)'; // لون الحروف 
       ctx.font = `${fontSize}px monospace`;
 
       for (let i = 0; i < drops.length; i++) {
