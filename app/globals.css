@@ -14,7 +14,7 @@
 .container-wrapper {
   min-height: auto; /* Full viewport height */
   background: linear-gradient(135deg, rgba(20, 4, 247, 0.07), rgba(235, 232, 236, 0.09));
-  backdrop-filter: blur(10px); /* Blur effect */
+  backdrop-filter: blur(3px); /* Blur effect */
 border-radius: 4px; /* Light gray border */
   /* margin-top: 60px; */
   padding: 10px;
