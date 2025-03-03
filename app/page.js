@@ -7,6 +7,7 @@ import Footer from './components/Footer';
 import Header from './components/Header';
 import Experience from './components/experiance';
 import MatrixBackground from './components/MatrixBackground';
+import Skills from './components/Skills';
 
 
 
@@ -21,6 +22,11 @@ export default function Home() {
       {/* About Section */}
       <section id="about" className="py-20">
         <About />
+      </section>
+
+      {/* skills Section */}
+      <section id="skills" className="py-20 ">
+        <Skills />
       </section>
       
         {/* Experience Section */}
