@@ -8,7 +8,7 @@ export default function About() {
         <div className="flex flex-col md:flex-row items-center">
           <div className="md:w-1/2 mb-6 md:mb-0">
             <img
-              src="../asset/ilyass.jpg"
+              src="C:\Users\elyas\Downloads\image.webp"
               alt="ilyass mallouk"
               className="rounded-lg shadow-lg w-full h-auto"
             />

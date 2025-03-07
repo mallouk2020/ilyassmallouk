@@ -1,8 +1,8 @@
 // app/components/Hero.jsx
 export default function Hero() {
     return (
-      <section className="container-wrapper mt-10">
-        <div className="container h-screen mx-auto text-center">
+      <section className="container-wrapper mt-12">
+        <div className="container p-20 h-100% mx-auto text-center">
           <h1 className="text-5xl font-bold mt-20 mb-8">ilyass mallouk</h1>
           <p className="text-xl mb-8">Fullstack Developer | React | Node.js | Laravel</p>
           <a
